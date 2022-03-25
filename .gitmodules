@@ -1,0 +1,6 @@
+[submodule "debian"]
+	path = debian
+	url = https://github.com/ait-yahya/vlmcsd-debian.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/ait-yahya/vlmcsd-docker.git
