@@ -3,7 +3,7 @@
 Deploy vlmcsd service on Docker container
 
 ```bash
-git clone https://github.com/ait-yahya/vlmcsd.git vlmcsd
+git clone https://github.com/abd-aityahya/vlmcsd.git vlmcsd
 cd vlmcsd
 cd docker
 
