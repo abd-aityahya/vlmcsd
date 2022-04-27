@@ -1,7 +1,7 @@
 FROM alpine:latest as builder
 WORKDIR /root
 RUN apk add --no-cache git make build-base && \
-    git clone --branch master --single-branch https://github.com/abd-aityahya/vlmcsd.git && \
+    git clone --branch main --single-branch https://github.com/abd-aityahya/vlmcsd.git && \
     cd vlmcsd/ && \
     make
 
